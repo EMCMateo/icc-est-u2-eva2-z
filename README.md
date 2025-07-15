@@ -33,7 +33,7 @@ Clase: `controllers.LibroController`
 
 
 
-###  Método: `procesarLibros(List<Book> libros)`
+###  Método: `z(List<Book> libros)`
 
 🔹 **Objetivo**: Implementar este método para retornar un `Map<Book, Book>` donde cada libro es la clave y su mismo objeto el valor.
 
